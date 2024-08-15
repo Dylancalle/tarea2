@@ -2,7 +2,7 @@
 #include "Tripla.h"
 class List8
 {
-private:
+public:
 	Tripla* ULT;
 	Tripla* PRI;
 };
